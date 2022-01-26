@@ -6,5 +6,5 @@ Raft is divided into three modules, module _PreVote_ describing Raft's prevote m
 * **Vote.tla**: Specification with module _PreVote_ and _Replication_ abstracted
 * **Replication.tla**: Spefication with module _PreVote_ and _Vote_ abstracted
 
-Readers may refer to **IPA_Raft.pdf** for detailed explanation for abstraction of each module.
+
 
