@@ -3,4 +3,4 @@ IPA(Interaction-Preserving Abstraction) is a framework that leverages characteri
 
 This repository shows our experiments of applying IPA to the famous consensus protocol Raft.
 
-Reads can find detailed explanation for abstraction of each module in [Docs](https://github.com/AnonymousAccountForReview/IPA/tree/main/Docs) and formal specifications in [Specifications](https://github.com/AnonymousAccountForReview/IPA/tree/main/Specifications).
+Readers can find detailed explanation for abstraction of each module in [Docs](https://github.com/AnonymousAccountForReview/IPA/tree/main/Docs) and formal specifications in [Specifications](https://github.com/AnonymousAccountForReview/IPA/tree/main/Specifications).
